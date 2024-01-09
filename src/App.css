@@ -1,0 +1,13 @@
+.pbtn {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: #7d8aad;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  position: absolute;
+  top: 25%;
+  left: 89.5%;
+}

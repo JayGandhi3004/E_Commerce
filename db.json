@@ -1,0 +1,166 @@
+{
+  "posts": [
+    {
+      "id": 111,
+      "name": "Samsung Galaxy S23 Ultra Thanos",
+      "price": "599",
+      "image": "https://www.layers.shop/cdn/shop/products/samsung-galaxy-s23-ultra-thanos--back.jpg?v=1692947940&width=1080",
+      "qty": 1,
+      "category": "Samsung"
+    },
+    {
+      "id": 112,
+      "name": "iPhone 13 Pro Max DJ Panda",
+      "price": "999",
+      "image": "https://www.layers.shop/cdn/shop/products/iphone-13-pro-max-dj-panda--back.jpg?v=1676974099&width=1080",
+      "qty": 1,
+      "category": "Iphone"
+    },
+    {
+      "id": 113,
+      "name": "Vivo X80 Jedi attack",
+      "price": "599",
+      "image": "https://www.layers.shop/cdn/shop/products/vivo-x80-jedi-attack--back.jpg?v=1685796918&width=1080",
+      "qty": 1,
+      "category": "Vivo"
+    },
+    {
+      "id": 114,
+      "name": "Vivo V25 Pro Space Buddies",
+      "price": "299",
+      "image": "https://www.layers.shop/cdn/shop/products/vivo-v25-pro-space-buddies--back.png?v=1692258878&width=1080",
+      "qty": 1,
+      "category": "Vivo"
+    },
+    {
+      "id": 115,
+      "name": "OnePlus Nord 3 5G Deadpool attack",
+      "price": "499",
+      "image": "https://www.layers.shop/cdn/shop/products/oneplus-nord-3-deadpool-attack--back.jpg?v=1692945834&width=1080",
+      "qty": 1,
+      "category": "OnePlus"
+    },
+    {
+      "id": 118,
+      "name": "Samsung Galaxy S20 FE Lunar Phase",
+      "price": "499",
+      "image": "https://www.layers.shop/cdn/shop/products/samsung-galaxy-s20-fe-lunar-phase--back.jpg?v=1692948662&width=1080",
+      "qty": 1,
+      "category": "Samsung"
+    },
+    {
+      "id": 117,
+      "name": "iPhone 12 Pro Max Universe",
+      "price": "799",
+      "image": "https://www.layers.shop/cdn/shop/products/iphone-12-pro-max-universe--back.jpg?v=1686051675&width=1080",
+      "qty": 1,
+      "category": "Iphone"
+    },
+    {
+      "id": 119,
+      "name": "Vivo Nex S Cybermind",
+      "price": "299",
+      "image": "https://www.layers.shop/cdn/shop/files/vivo-nex-cybermind--back_88315977-e69d-43dc-9db2-fc8864e2aca5.jpg?v=1685101668&width=1080",
+      "qty": 1,
+      "category": "Vivo"
+    },
+    {
+      "id": 120,
+      "name": "Oneplus 7T Astro Rainbow",
+      "price": "599",
+      "image": "https://www.layers.shop/cdn/shop/products/oneplus-7T-astro-rainbow--back.jpg?v=1677044866&width=1080",
+      "qty": 1,
+      "category": "Oneplus"
+    },
+    {
+      "id": 116,
+      "name": "iPhone 14 Pro Max Before Sunset",
+      "price": "999",
+      "image": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-max-before-sunset--back.jpg?v=1692694463&width=1080",
+      "qty": 1,
+      "category": "Iphone"
+    }
+  ],
+  "cart": [
+    {
+      "id": 113,
+      "name": "Vivo X80 Jedi attack",
+      "price": "599",
+      "image": "https://www.layers.shop/cdn/shop/products/vivo-x80-jedi-attack--back.jpg?v=1685796918&width=1080",
+      "qty": 16,
+      "category": "Vivo"
+    },
+    {
+      "id": 118,
+      "name": "Samsung Galaxy S20 FE Lunar Phase",
+      "price": "499",
+      "image": "https://www.layers.shop/cdn/shop/products/samsung-galaxy-s20-fe-lunar-phase--back.jpg?v=1692948662&width=1080",
+      "qty": 16,
+      "category": "Samsung"
+    },
+    {
+      "id": 114,
+      "name": "Vivo V25 Pro Space Buddies",
+      "price": "299",
+      "image": "https://www.layers.shop/cdn/shop/products/vivo-v25-pro-space-buddies--back.png?v=1692258878&width=1080",
+      "qty": 16,
+      "category": "Vivo"
+    },
+    {
+      "id": 120,
+      "name": "Oneplus 7T Astro Rainbow",
+      "price": "599",
+      "image": "https://www.layers.shop/cdn/shop/products/oneplus-7T-astro-rainbow--back.jpg?v=1677044866&width=1080",
+      "qty": 16,
+      "category": "Oneplus"
+    },
+    {
+      "id": 112,
+      "name": "iPhone 13 Pro Max DJ Panda",
+      "price": "999",
+      "image": "https://www.layers.shop/cdn/shop/products/iphone-13-pro-max-dj-panda--back.jpg?v=1676974099&width=1080",
+      "qty": 16,
+      "category": "Iphone"
+    },
+    {
+      "id": 117,
+      "name": "iPhone 12 Pro Max Universe",
+      "price": "799",
+      "image": "https://www.layers.shop/cdn/shop/products/iphone-12-pro-max-universe--back.jpg?v=1686051675&width=1080",
+      "qty": 16,
+      "category": "Iphone"
+    },
+    {
+      "id": 111,
+      "name": "Samsung Galaxy S23 Ultra Thanos",
+      "price": "599",
+      "image": "https://www.layers.shop/cdn/shop/products/samsung-galaxy-s23-ultra-thanos--back.jpg?v=1692947940&width=1080",
+      "qty": 16,
+      "category": "Samsung"
+    },
+    {
+      "id": 115,
+      "name": "OnePlus Nord 3 5G Deadpool attack",
+      "price": "499",
+      "image": "https://www.layers.shop/cdn/shop/products/oneplus-nord-3-deadpool-attack--back.jpg?v=1692945834&width=1080",
+      "qty": 16,
+      "category": "OnePlus"
+    },
+    {
+      "id": 119,
+      "name": "Vivo Nex S Cybermind",
+      "price": "299",
+      "image": "https://www.layers.shop/cdn/shop/files/vivo-nex-cybermind--back_88315977-e69d-43dc-9db2-fc8864e2aca5.jpg?v=1685101668&width=1080",
+      "qty": 16,
+      "category": "Vivo"
+    },
+    {
+      "id": 116,
+      "name": "iPhone 14 Pro Max Before Sunset",
+      "price": "999",
+      "image": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-max-before-sunset--back.jpg?v=1692694463&width=1080",
+      "qty": 16,
+      "category": "Iphone"
+    }
+  ]
+}
